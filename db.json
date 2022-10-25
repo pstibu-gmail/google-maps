@@ -1,0 +1,66 @@
+{
+  "getDistance": {
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "2,522 km",
+              "value": 2521611
+            },
+            "duration": {
+              "text": "1 day 4 hours",
+              "value": 99750
+            },
+            "status": "OK"
+          },
+          {
+            "distance": {
+              "text": "1,898 km",
+              "value": 1898133
+            },
+            "duration": {
+              "text": "20 hours 0 mins",
+              "value": 71997
+            },
+            "status": "OK"
+          }
+        ]
+      },
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "1,881 km",
+              "value": 1881490
+            },
+            "duration": {
+              "text": "21 hours 1 min",
+              "value": 75672
+            },
+            "status": "OK"
+          },
+          {
+            "distance": {
+              "text": "1,258 km",
+              "value": 1258012
+            },
+            "duration": {
+              "text": "13 hours 19 mins",
+              "value": 47919
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "originAddresses": [
+      "5 Great Carleton Pl, Edinburgh EH16 4TX, UK",
+      "Greenwich, London, UK"
+    ],
+    "destinationAddresses": [
+      "Stockholm, Sweden",
+      "Staroměstské nám. 1/3, Staré Město, 110 00 Praha-Praha 1, Czechia"
+    ]
+  }
+}
